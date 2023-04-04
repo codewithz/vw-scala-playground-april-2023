@@ -50,7 +50,7 @@ object PatternMatching extends App {
     anArray match{
         case Array(first,second,third) =>println(first+"-"+second+"-"+third)
         case Array(_,_,third,_) =>println("Third:"+third)
-        case _: Array[?] => println("Default")
+        case _=> println("Default")
     }
         
     
