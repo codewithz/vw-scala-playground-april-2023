@@ -721,3 +721,716 @@ WARNING: Unmatched cancel notification for request id 7533
 2023.04.04 11:01:22 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\pattern-matching.scala
 Apr 04, 2023 11:06:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2023.04.04 11:24:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\pattern-matching.scala
+2023.04.04 11:24:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\pattern-matching.scala
+2023.04.04 11:31:47 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:31:52 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:31:57 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:31:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:02 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:06 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:08 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:11 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:13 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:16 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:18 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:20 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:22 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:30 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+Apr 04, 2023 11:32:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7978
+Apr 04, 2023 11:32:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7980
+2023.04.04 11:32:31 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:33 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:34 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:37 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:39 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:41 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:45 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:32:46 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:38:07 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:38:16 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:38:19 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:38:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:38:22 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:38:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:38:30 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:38:32 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:38:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:38:37 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:38:39 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:38:55 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:38:57 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:38:57 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:38:57 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:17 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:22 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:30 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:31 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:32 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:38 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:40 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:46 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:48 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:49 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:49 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:50 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:39:49 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:42:51 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:43:01 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+Apr 04, 2023 11:43:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8527
+Apr 04, 2023 11:43:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8529
+Apr 04, 2023 11:43:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8531
+Apr 04, 2023 11:43:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8533
+Apr 04, 2023 11:43:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8534
+Apr 04, 2023 11:43:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8536
+2023.04.04 11:43:09 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:43:13 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:43:14 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:43:20 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:43:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:43:28 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:43:30 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:43:34 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:43:38 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:43:42 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:43:46 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:43:50 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:43:50 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:44:10 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:44:11 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:44:15 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:44:20 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:44:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:44:28 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:44:34 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:44:38 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+Apr 04, 2023 11:44:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8899
+Apr 04, 2023 11:44:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8901
+Apr 04, 2023 11:44:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8903
+Apr 04, 2023 11:44:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8906
+Apr 04, 2023 11:44:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8905
+Apr 04, 2023 11:44:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8908
+Apr 04, 2023 11:44:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8910
+Apr 04, 2023 11:44:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8912
+Apr 04, 2023 11:44:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8914
+Apr 04, 2023 11:44:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8916
+2023.04.04 11:44:45 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:44:47 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:44:52 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:44:55 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:44:57 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:44:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:45:01 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:45:03 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:45:13 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:45:18 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:45:22 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:45:25 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:45:28 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:45:30 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:45:41 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:45:44 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:45:50 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:45:51 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:45:51 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:45:51 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:46:00 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:46:02 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:46:05 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:46:07 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:46:08 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:46:10 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:46:12 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:46:15 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:46:18 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:46:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:46:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:46:44 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+Apr 04, 2023 11:46:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9314
+Apr 04, 2023 11:46:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9315
+2023.04.04 11:46:50 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+Apr 04, 2023 11:46:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9317
+Apr 04, 2023 11:46:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9325
+Apr 04, 2023 11:46:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9327
+2023.04.04 11:46:51 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:46:53 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:46:55 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:46:55 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:47:04 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:47:07 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:47:08 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:47:10 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:47:14 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:47:14 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:53:20 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:53:33 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:53:37 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:53:39 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:53:40 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+Apr 04, 2023 11:53:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9542
+2023.04.04 11:53:48 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:53:51 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+Apr 04, 2023 11:54:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9585
+Apr 04, 2023 11:54:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9587
+Apr 04, 2023 11:54:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9590
+Apr 04, 2023 11:54:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9591
+Apr 04, 2023 11:54:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9593
+Apr 04, 2023 11:54:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9599
+2023.04.04 11:54:02 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:54:18 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:54:30 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:54:39 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:54:44 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:54:48 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:54:51 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:54:53 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:54:57 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:55:02 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:55:05 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:55:18 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:55:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:55:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:55:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:55:52 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:55:53 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:55:57 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:00 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:06 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:11 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:15 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:16 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:18 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:30 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:34 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:34 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:34 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:40 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:41 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:47 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:56:51 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:01 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:04 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:06 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:10 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:12 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:15 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:18 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:19 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:28 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:28 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:28 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:37 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:40 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:40 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:40 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:48 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:48 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:48 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:58 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:57:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:58:03 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:58:12 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:58:13 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:58:13 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:58:25 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+Apr 04, 2023 11:58:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10233
+2023.04.04 11:58:30 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:58:36 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:58:38 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:58:42 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:58:44 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:58:45 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:58:46 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:58:48 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:58:50 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:58:52 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:11 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:14 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:15 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:18 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:25 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:34 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:38 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:40 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:43 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:45 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:46 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:48 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:56 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:58 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 11:59:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:00:00 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:00:00 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:00:00 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:00:01 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:00:02 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:00:18 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:00:18 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:00:18 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:00:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:00:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:00:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:07:04 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:07:06 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:07:08 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:07:11 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:07:12 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+Apr 04, 2023 12:07:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10646
+2023.04.04 12:07:19 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+Apr 04, 2023 12:07:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10656
+Apr 04, 2023 12:07:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10658
+Apr 04, 2023 12:07:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10660
+Apr 04, 2023 12:07:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10663
+Apr 04, 2023 12:07:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10665
+2023.04.04 12:07:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:07:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:07:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:10:42 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:10:42 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:10:42 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:10:56 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:10:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:10:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:12:28 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:12:34 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:12:36 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:12:40 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:12:41 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:12:52 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:12:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:13:01 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+Apr 04, 2023 12:13:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10863
+2023.04.04 12:13:04 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:13:10 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:13:11 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:13:14 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:13:15 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:13:20 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:13:22 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:13:22 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:13:32 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:13:32 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:13:32 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:13:34 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:13:43 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:13:43 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:14:02 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:14:02 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:14:03 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:14:23 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:14:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:14:28 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:14:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:14:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:17:11 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:17:12 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:17:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:17:28 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:17:38 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:17:39 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:17:42 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:17:49 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:17:53 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:17:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:01 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:03 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:05 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:08 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:13 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:22 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:31 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:33 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:37 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:39 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:44 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:46 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:49 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:52 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:54 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:18:56 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:19:01 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:19:04 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:19:06 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:19:08 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:19:12 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+Apr 04, 2023 12:19:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11733
+2023.04.04 12:19:14 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:19:15 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:19:19 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:19:23 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:19:23 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:19:23 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:19:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:19:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:19:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:19:47 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:19:48 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:06 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:08 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:12 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:14 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:15 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:17 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:22 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:31 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:31 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:32 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:44 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:47 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:47 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:47 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:57 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:20:57 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:21:05 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:21:17 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:21:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:21:22 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:21:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:21:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:21:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:21:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:22:14 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:22:18 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:22:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:22:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:22:30 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:22:31 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:22:33 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:22:34 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:22:34 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:22:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:22:41 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:22:44 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:22:57 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:22:57 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:24:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:24:23 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:24:25 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:24:36 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:24:40 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:25:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:25:22 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:25:25 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:25:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:25:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:25:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:25:48 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:25:50 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:25:52 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:25:54 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:25:54 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:25:54 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:26:08 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:26:08 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:26:08 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:26:08 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:26:09 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:26:09 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:26:09 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:26:25 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:26:25 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:27:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:27:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:27:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\functions.scala
+2023.04.04 12:27:37 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:27:41 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:27:43 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:27:45 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:27:47 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:27:51 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:27:53 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:29:43 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:29:47 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:29:49 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:29:52 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:29:54 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:30:00 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:30:03 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:30:06 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:30:08 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:30:10 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:30:11 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:30:22 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:30:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:30:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:30:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:30:39 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:30:41 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:30:49 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:30:53 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+Apr 04, 2023 12:31:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12813
+Apr 04, 2023 12:31:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12815
+Apr 04, 2023 12:31:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12817
+Apr 04, 2023 12:31:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12818
+Apr 04, 2023 12:31:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12819
+Apr 04, 2023 12:31:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12820
+Apr 04, 2023 12:31:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12822
+Apr 04, 2023 12:31:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12824
+2023.04.04 12:31:03 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+Apr 04, 2023 12:31:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12827
+Apr 04, 2023 12:31:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12825
+2023.04.04 12:31:03 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:31:06 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:31:09 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:31:13 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:31:16 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:31:19 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:31:23 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:31:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:31:37 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:31:40 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:31:43 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:31:45 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:31:46 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:31:52 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:31:54 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:31:56 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:32:02 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:32:04 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:32:07 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:32:11 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:32:14 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:32:18 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:32:23 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:32:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:32:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:33:13 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:33:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:33:23 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:33:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:33:31 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:33:34 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:33:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:33:49 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:33:55 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:33:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:01 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:04 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:06 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:06 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:06 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:25 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:25 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:25 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:33 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:36 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:36 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:36 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:50 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:34:51 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:38:23 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:38:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:38:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:38:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:38:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:38:41 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:38:49 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:38:55 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:38:57 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:38:58 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:38:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+Apr 04, 2023 12:39:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13631
+2023.04.04 12:39:10 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2023.04.04 12:39:16 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+Apr 04, 2023 12:39:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13663
+2023.04.04 12:39:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:39:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:39:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:39:32 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:39:34 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:39:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:39:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:39:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:40:05 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:40:09 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:40:12 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:40:14 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:40:16 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:40:19 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:40:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:40:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:48:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:48:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:48:37 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:48:39 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:48:42 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:48:44 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:49:00 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:49:11 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+Apr 04, 2023 12:49:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13971
+Apr 04, 2023 12:49:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13969
+2023.04.04 12:49:13 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:49:17 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+Apr 04, 2023 12:49:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14004
+2023.04.04 12:49:20 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:49:20 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:49:22 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:49:30 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:49:33 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:49:39 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:49:48 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:49:57 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:49:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:50:00 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:50:00 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:50:01 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:50:01 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:50:00 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:50:20 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:50:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:50:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:50:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:50:21 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:51:12 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+Apr 04, 2023 12:51:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14172
+Apr 04, 2023 12:51:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14171
+Apr 04, 2023 12:51:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14173
+Apr 04, 2023 12:51:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14167
+Apr 04, 2023 12:51:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14177
+Apr 04, 2023 12:51:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14175
+2023.04.04 12:51:20 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:51:20 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+Apr 04, 2023 12:51:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14191
+2023.04.04 12:51:22 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:51:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:51:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:51:25 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+Apr 04, 2023 12:52:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14251
+Apr 04, 2023 12:52:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14282
+Apr 04, 2023 12:52:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14310
+2023.04.04 12:52:57 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+Apr 04, 2023 12:52:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14345
+2023.04.04 12:53:05 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:53:11 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:53:22 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:53:25 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:53:28 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:53:33 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:53:39 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:53:50 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:54:03 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:54:07 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:54:12 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:54:12 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:54:12 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:54:20 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:54:25 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:54:31 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:54:33 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:54:36 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:54:36 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:55:08 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:55:09 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+Apr 04, 2023 12:55:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14779
+2023.04.04 12:55:23 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:55:44 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:55:50 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:55:53 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:55:54 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:55:54 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:56:19 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:56:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:56:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:56:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:56:58 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:56:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+2023.04.04 12:56:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\higher-order-function.scala
+Apr 04, 2023 1:01:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14948
+2023.04.04 14:30:24 INFO  Shutting down server
+2023.04.04 14:30:24 INFO  shutting down Metals
+2023.04.04 14:30:24 INFO  Exiting server
