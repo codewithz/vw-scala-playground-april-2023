@@ -36,6 +36,10 @@ class DepositAccount(name:String) extends Account(name:String){
     override val _accountType: String = "Deposit"
     override def toString(): String = s"Account Id= ${getId},name=${getName},dateOpened=${getDateOpened},accountType=${_accountType}"
     
+    def printMe()={
+        println(s"Account Id= ${getId},name=${getName},dateOpened=${getDateOpened},accountType=${_accountType}")
+    
+    }
 }
 
 
@@ -61,8 +65,9 @@ object AccountRunner extends App{
 
     println("---------------------------------------------")
 
-    val da1:Account=new DepositAccount("Super Savings Account")
+    val da1:DepositAccount=new DepositAccount("Super Savings Account")
     println(da1.getId,da1.getName,da1.getDateOpened,da1.getAccountType)
     println(da1)
+    da1.printMe()
 
 }
