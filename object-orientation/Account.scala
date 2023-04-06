@@ -18,6 +18,7 @@ abstract class Account(id:UUID,name:String,dateOpened:LocalDateTime) {
     def getName:String =_name
     def getDateOpened:LocalDateTime=_dateOpened
     def getAccountType:String = _accountType
+    override def toString(): String = s"Account Id= ${_id},name=${_name},dateOpened=${_dateOpened}"
 
     def setName(newName:String):Unit = {
         _name=newName
@@ -33,6 +34,7 @@ class CreditAccount(name:String) extends Account(name:String){
 class DepositAccount(name:String) extends Account(name:String){
 
     override val _accountType: String = "Deposit"
+    override def toString(): String = s"Account Id= ${getId},name=${getName},dateOpened=${getDateOpened},accountType=${_accountType}"
     
 }
 
@@ -55,8 +57,12 @@ object AccountRunner extends App{
 
     val ca1:Account =new CreditAccount("Travel Mastercard")
     println(ca1.getId,ca1.getName,ca1.getDateOpened,ca1.getAccountType)
+    println(ca1)
+
+    println("---------------------------------------------")
 
     val da1:Account=new DepositAccount("Super Savings Account")
     println(da1.getId,da1.getName,da1.getDateOpened,da1.getAccountType)
+    println(da1)
 
 }
