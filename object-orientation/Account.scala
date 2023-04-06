@@ -1,11 +1,12 @@
 import java.util.UUID
 import java.time.LocalDateTime
 
-class Account(id:UUID,name:String,dateOpened:LocalDateTime) {
+abstract class Account(id:UUID,name:String,dateOpened:LocalDateTime) {
 
     private var _id:UUID=id
     private var _name:String=name
     private var _dateOpened:LocalDateTime=dateOpened
+    val _accountType:String
 
     //Auxiliary Constructor 
 
@@ -16,6 +17,7 @@ class Account(id:UUID,name:String,dateOpened:LocalDateTime) {
     def getId:UUID = _id
     def getName:String =_name
     def getDateOpened:LocalDateTime=_dateOpened
+    def getAccountType:String = _accountType
 
     def setName(newName:String):Unit = {
         _name=newName
@@ -25,15 +27,13 @@ class Account(id:UUID,name:String,dateOpened:LocalDateTime) {
 }
 
 class CreditAccount(name:String) extends Account(name:String){
-    private val _accountType="Credit"
-
-    def getAccountType:String = _accountType
+    override val _accountType: String = "Credit"
 }
 
 class DepositAccount(name:String) extends Account(name:String){
-    private val _accountType="Deposit"
 
-    def getAccountType:String = _accountType
+    override val _accountType: String = "Deposit"
+    
 }
 
 
@@ -53,10 +53,10 @@ object AccountRunner extends App{
     // a1.setName("Updated Account 1")
     // println(a1.getId,a1.getName,a1.getDateOpened)
 
-    val ca1:CreditAccount =new CreditAccount("Travel Mastercard")
+    val ca1:Account =new CreditAccount("Travel Mastercard")
     println(ca1.getId,ca1.getName,ca1.getDateOpened,ca1.getAccountType)
 
-    val da1:DepositAccount=new DepositAccount("Super Savings Account")
+    val da1:Account=new DepositAccount("Super Savings Account")
     println(da1.getId,da1.getName,da1.getDateOpened,da1.getAccountType)
 
 }

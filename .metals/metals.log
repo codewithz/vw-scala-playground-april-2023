@@ -2898,3 +2898,136 @@ WARNING: Unmatched cancel notification for request id 3956
 2023.04.06 10:09:54 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Account.scala
 2023.04.06 10:09:54 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Account.scala
 2023.04.06 10:09:54 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Account.scala
+2023.04.06 10:18:07 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+Apr 06, 2023 10:18:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4239
+Apr 06, 2023 10:18:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4238
+2023.04.06 10:18:14 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:18:23 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:18:28 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+Apr 06, 2023 10:18:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4343
+Apr 06, 2023 10:18:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4347
+Apr 06, 2023 10:18:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4346
+Apr 06, 2023 10:18:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4350
+Apr 06, 2023 10:18:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4351
+Apr 06, 2023 10:18:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4352
+Apr 06, 2023 10:18:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4353
+Apr 06, 2023 10:18:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4355
+Apr 06, 2023 10:18:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4358
+Apr 06, 2023 10:18:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4361
+2023.04.06 10:18:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:18:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:18:39 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:18:42 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:18:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:19:07 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:19:10 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:19:13 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:19:17 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:19:20 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:19:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:19:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:19:29 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:19:42 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:19:44 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:19:48 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+Apr 06, 2023 10:19:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4684
+Apr 06, 2023 10:19:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4687
+Apr 06, 2023 10:19:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4682
+Apr 06, 2023 10:19:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4686
+Apr 06, 2023 10:19:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4683
+Apr 06, 2023 10:19:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4685
+Apr 06, 2023 10:19:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4689
+Apr 06, 2023 10:19:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4690
+Apr 06, 2023 10:19:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4692
+Apr 06, 2023 10:19:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4694
+Apr 06, 2023 10:19:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4695
+Apr 06, 2023 10:19:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4697
+2023.04.06 10:19:56 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:19:56 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:19:58 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:20:00 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:20:04 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:20:10 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+Apr 06, 2023 10:20:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4769
+2023.04.06 10:20:15 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:20:23 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:20:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:20:34 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:20:41 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:20:42 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:20:44 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:20:51 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:20:55 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:20:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:21:02 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:21:03 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:30:51 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+Apr 06, 2023 10:30:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5159
+Apr 06, 2023 10:30:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5160
+2023.04.06 10:30:59 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:31:01 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:31:08 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:31:11 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:31:13 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:31:19 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:31:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:31:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:31:38 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:31:39 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:31:41 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:31:43 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:31:50 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:31:53 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:31:57 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:00 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:00 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:00 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:09 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:12 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:13 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:18 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:23 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:24 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:26 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:27 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:31 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:36 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:36 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:35 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:41 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:44 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:46 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:47 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:47 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:32:47 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:33:15 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:33:16 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
+2023.04.06 10:33:16 WARN  no build target for: E:\Local d\Zartab\Trainings\2023\B-05 Volkswagen Scala and Spark April 2023\Scala Examples\object-orientation\Customer.scala
