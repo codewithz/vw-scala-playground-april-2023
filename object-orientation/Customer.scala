@@ -1,5 +1,6 @@
 import java.util.UUID
 
+
 class Customer(first:String,last:String,email:String) {
   
     private val _id=UUID.randomUUID();
@@ -27,8 +28,13 @@ trait Address{
     def printAddress():Unit = println(s"${_street},${_state},${_zip}")
 }
 
+trait SecretCodeGenerator{
+    def getOTP:String = UUID.randomUUID().toString
+}
+
+
 class CustomerWithAddress(first:String,last:String,email:String) 
-                    extends Customer(first,last,email) with Address{
+                    extends Customer(first,last,email) with  Address with SecretCodeGenerator{
 
     override protected var _state: String = ""
     override protected var _zip: Int = -1
@@ -59,5 +65,6 @@ object CustomerRunner extends App{
      c2.setZip(950501)
      println(c2)
      c2.printAddress()
+     println("OTP:",c2.getOTP)
 
 }
